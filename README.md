@@ -3,6 +3,8 @@ Knobs
 
 > Easy feature toggles
 
+[![Build Status](https://travis-ci.org/prestonp/knobs.svg)](https://travis-ci.org/prestonp/knobs)
+
 Install
 ---
 
