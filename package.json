@@ -1,5 +1,5 @@
 {
-  "name": "toggles",
+  "name": "knobs",
   "version": "0.0.1",
   "description": "Feature toggles",
   "main": "lib/index.js",
